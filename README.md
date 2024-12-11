@@ -187,5 +187,11 @@ WHERE date_fin < '2024-02-01';
 This documentation provides all essential details for setting up and managing the database. Happy coding!
 
 
+---
+
+📋 Overview This project is a database design for managing a car rental system. It includes three main tables:
+
+Clients: Contains client details such as name, address, and phone number. Voitures (Cars): Stores information about cars, including their brand, model, and year. Contrats (Contracts): Handles rental agreements between clients and cars. 🖼️ Entity-Relationship Diagram (ERD) Below is the ERD that demonstrates the relationships between the tables:
+
 
 ![image](https://github.com/user-attachments/assets/eb27a95a-2586-4188-980d-8cbe17a15c9b)
